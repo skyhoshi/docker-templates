@@ -3,7 +3,6 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
-<Beta>False</Beta>
 <Category>Other:</Category>
 <Name>Application Categorizer</Name>
 <CA>accessory</CA>
